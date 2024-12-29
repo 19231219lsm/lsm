@@ -1,24 +1,17 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate software developer from [Your Country].
+I'm Liu Simiao, a first-year master's student at the School of Computer Science, Beihang University.  
+My research focuses on **code security review and detection**.
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m learning [New Skill/Technology]
-- 💬 Ask me about [Topic or Technology]
-- 📫 How to reach me: [Your Email]
+- 🔭 I’m currently working on applying LLMs to detect vulnerabilities and improve secure code development practices.  
+- 🌱 I’m exploring advanced LLM fine-tuning techniques and security-specific dataset preparation.  
+- 💬 Ask me about **code security** or **secure software development**.  
 
 ## 🚀 Skills and Technologies
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, TensorFlow
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: Python,  C++  
+- **Frameworks**: PyTorch, Django  
 
-## 🌟 Featured Projects
-- [📘 Project 1](https://github.com/username/project1): A description of project 1.
-- [📙 Project 2](https://github.com/username/project2): A description of project 2.
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [Email](buaalsm@buaa.edu.cn)  
+
