@@ -5,13 +5,12 @@ My research focuses on **code security review and detection**.
 
 - 🔭 I’m currently working on applying LLMs to detect vulnerabilities and improve secure code development practices.  
 - 🌱 I’m exploring advanced LLM fine-tuning techniques and security-specific dataset preparation.  
-- 💬 Ask me about **code security** or **secure software development**.  
+- 💬 Ask me about **code security** or **secure software development**.
+- - 📫 How to reach me: [buaalsm@buaa.edu.cn]  
 
 ## 🚀 Skills and Technologies
 - **Languages**: Python,  C++  
 - **Frameworks**: PyTorch, Django  
 
 
-## 🌐 Connect with me
-- [Email](buaalsm@buaa.edu.cn)  
 
